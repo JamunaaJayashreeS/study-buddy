@@ -1,0 +1,2 @@
+def checkLoginCred():
+    return "test"
